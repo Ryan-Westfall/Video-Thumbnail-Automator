@@ -35,7 +35,6 @@ const createOgImage = (imageToStampPath, textToAdd, fontSize, savePath) => {
   });
 };
 
-createOgImage("./images/cat.jpeg", "Hello", 14, "./images/item.png");
-
+createOgImage("./images/image.png", "Input Text", 100, "./images/new_image.png");
 
 module.exports = createOgImage;
