@@ -21,4 +21,4 @@ Once this is done, open ```index.js``` in your perfered text editor.
 
 Within this file, call the function ```createOgImage``` and type in the desired arguments.
 
-A sample ```createOgImage``` function call is provided at the bottom of the file to be moddifed or referenced.
+A sample ```createOgImage``` function call is provided at the bottom of the file to be modified or referenced.
