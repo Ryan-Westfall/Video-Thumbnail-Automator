@@ -1,5 +1,4 @@
 # Video-Thumbnail-Automator
----
 Generates Pixorize thumbnail theme through ImageMagick library.
 
 ---
