@@ -1,12 +1,11 @@
 {
-  "name": "david-thing",
+  "name": "Video-Thumbnail-Automator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generates Pixorize thumbnail theme through ImageMagick library.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ryan Westfall",
   "license": "ISC",
   "dependencies": {
     "gm": "^1.23.1"
